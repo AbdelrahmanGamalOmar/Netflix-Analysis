@@ -1,7 +1,7 @@
-/*
+
 CREATE DATABASE Netflix_Analysis
 USE Netflix_Analysis
-*/
+
 SELECT * FROM netflix_titles
 
 SELECT COUNT(*) 
