@@ -7,6 +7,7 @@ The Netflix dataset contains the following key details:
 Total Entries: 8,809
 Columns: 12
 
+
 Key Features of the Anlysis and Visualization:
 
 Identified columns with null values and what will make bais and what won't
