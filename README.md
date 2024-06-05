@@ -8,12 +8,21 @@ Total Entries: 8,809
 Columns: 12
 
 Key Features of the Anlysis and Visualization:
+
 Identified columns with null values and what will make bais and what won't
+
 The highest Countries in production
+
 Seperate movie duration (minuts) and tv show duration (seasons)
+
 Max, Min, and Avg duration of movies and tv shows
+
 Added new columns month_added and season_added
+
 Which year, season, and month had the most number of movie and television series releases
+
 The count of each rating
+
 Average duration of movies and tv shows by country
+
 The relation between the duration of titles and their rating
